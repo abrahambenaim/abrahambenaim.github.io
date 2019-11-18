@@ -89,8 +89,6 @@
       "startDate": "2016-12-01",
       "endDate": "2018-12-01",
       "gpa": "3.7",
-      "courses": [
-      ]
     }
   ],
   "work": [
@@ -112,7 +110,6 @@
       "position": "Co-founder",
       "startDate": "2018-04-01",
       "endDate": "Present",
-      "summary": "",
       "highlights": [
         "Co-founder of an online marketplace with emphasis on logistical triangulation to gain competitive advantage over our competitors",
         "Built predictive models based on preference and order history to maximize sales efficiency and inventory surplus management.",
@@ -123,7 +120,6 @@
       "position": "Business Intelligence specialist",
       "startDate": "2016-12-01",
       "endDate": "2018-06-30",
-      "summary": "",
       "highlights": [
         "Worked with cross-functional teams to structure and standardize data inputs, identify appropriate terminology, extract data and develop integrated reporting and analytics.",
         "Presented and communicated the findings in an clear and actionable approach tailored to the audience and their needs.",
@@ -131,7 +127,7 @@
         "Successfully implemented an automated structure that handles 90% of run-rate sales process ($200k - $400k a year)."
       ]
     }
-  ],
+  ],    
   "volunteer": [
     {
       "organization": "McKinsey & Company",
