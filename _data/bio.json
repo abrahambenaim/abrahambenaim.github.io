@@ -1,53 +1,48 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Abraham Benaim",
+    "label": "Business Intelligence Manager",
+    "picture": "https://techfolios.github.io/template/images/pp.png",
+    "email": "abraham@benaim.co",
+    "phone": "786-681-4464",
+    "website": "https://benaim.co",
+    "summary": "Data Analyst and Business Intelligence Manager with an Master in Business Administration and over 3 years of experience translating data into actionable insights.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "33160",
+      "city": "Miami",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Florida"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "abrahambenaim",
+        "url": "http://github.com/abrahambenaim"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "abrahambenaim",
+        "url": "http://linkedin.com/in/abrahambenaim"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "abrahambenaim",
+        "url": "http://instagram.com/abrahambenaim"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data analytics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "SQL",
+        "Python"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
+      "name": "automation",
+      "keywords": [""
       ]
     },
     {
@@ -62,11 +57,10 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "R",
+        "SQL",
+        "Visual Basic"
       ]
     },
     {
@@ -74,29 +68,38 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Salesforce",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Tableau"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Miami",
+      "area": "Data Analytics & Machine Learning (expected Spring, 2020)",
+      "studyType": "Specialization",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Nova Southeastern University ",
+      "area": "MBA in Data Analytics and Entrepreneurship",
+      "studyType": "Master in Business Administration",
+      "startDate": "2016-12-01",
+      "endDate": "2018-12-01",
+      "gpa": "3.7",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "KI Construction Consultant",
+      "position": "Business Intelligence Manager",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
