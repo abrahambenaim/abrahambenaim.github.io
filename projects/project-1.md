@@ -3,9 +3,10 @@ layout: project
 type: project
 
 title: shadou.me
+
 permalink: projects/shadoume
 # All dates must be YYYY-MM-DD format!
-date: 2018-07
+date: 2018-07-01
 labels:
   - UX/UI
   - Adobe XD
