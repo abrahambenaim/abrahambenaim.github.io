@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Yellow and Black Square Personal Logo.jpg
+image: images/shadoumelogo.jpg
 title: shadou.me
 permalink: projects/shadoume
 # All dates must be YYYY-MM-DD format!
