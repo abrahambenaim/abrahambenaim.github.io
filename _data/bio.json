@@ -119,64 +119,25 @@
         "Owning the overall management of all strategic and operational activities, including providing market feedback regarding competitive offerings and needs.,
         "Planning, analyzing and coordinating the implementation of new ventures and the penetration of new markets."
     {
-      "company": "BJAtrading",
-      "position": "Co-founder",
-      "startDate": "2018-04-01",
-      "endDate": "Present",
+      "company": "CLAdirect",
+      "position": "Business Intelligence specialist",
+      "startDate": "2016-12-01",
+      "endDate": "2018-06-30",
       "summary": "",
       "highlights": [
-        "Co-founder of an online marketplace with emphasis on logistical triangulation to gain competitive advantage over our competitors",
-        "Built predictive models based on preference and order history to maximize sales efficiency and inventory surplus management.",
-        "Owning the overall management of all strategic and operational activities, including providing market feedback regarding competitive offerings and needs.,
-        "Planning, analyzing and coordinating the implementation of new ventures and the penetration of new markets."
+        "Worked with cross-functional teams to structure and standardize data inputs, identify appropriate terminology, extract data and develop integrated reporting and analytics.",
+        "Presented and communicated the findings in an clear and actionable approach tailored to the audience and their needs.",
+        "Automated key reports and built a forecasting solution to support the company's growth, resulting in a 30% more accurate forecast.",
+        "Successfully implemented an automated structure that handles 90% of run-rate sales process ($200k - $400k a year)."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "organization": "McKinsey & Company",
+      "position": "Analyst",
+      "summary": "Participants from the three finalist groups will be able to work with the local NGO partner to implement the solution developed during McKinsey Weekend and presented at the McKinsey CEO Forum. Techo Panama seeks to build a fair, integrated and poverty free society, where everyone has the opportunities needed to develop their maximum capacities. Had the opportunity to provide consulting practices on how Techo Panama could achieve more volunteers and reduce churn rate of current ones."
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
