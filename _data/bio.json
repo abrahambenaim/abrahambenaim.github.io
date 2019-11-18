@@ -89,6 +89,14 @@
       "startDate": "2016-12-01",
       "endDate": "2018-12-01",
       "gpa": "3.7",
+    },
+    {
+      "institution": "IDC - Raphael Recanati University (Herzliya/Tel aviv, Israel)",
+      "area": "Business Administration",
+      "studyType": "BA in Business Administration",
+      "startDate": "2011-08-01",
+      "endDate": "2014-12-01",
+      "gpa": "3.64",
     }
   ],
   "work": [
@@ -133,8 +141,9 @@
   "volunteer": [
     {
       "organization": "McKinsey & Company",
-      "position": "Analyst",
-      "summary": "Participants from the three finalist groups will be able to work with the local NGO partner to implement the solution developed during McKinsey Weekend and presented at the McKinsey CEO Forum. Techo Panama seeks to build a fair, integrated and poverty free society, where everyone has the opportunities needed to develop their maximum capacities. Had the opportunity to provide consulting practices on how Techo Panama could achieve more volunteers and reduce churn rate of current ones."
+      "position": "Volunteer",
+      "summary": "Participants from the three finalist groups will be able to work with the local NGO partner to implement the solution developed during McKinsey Weekend and presented at the McKinsey CEO Forum.", 
+      "Techo Panama seeks to build a fair, integrated and poverty free society, where everyone has the opportunities needed to develop their maximum capacities. Had the opportunity to provide consulting practices on how Techo Panama could achieve more volunteers and reduce churn rate of current ones."
     }
   ]
 }
