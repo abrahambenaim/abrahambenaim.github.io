@@ -1,9 +1,8 @@
 ---
 layout: project
 type: project
-
+image: images/shadoumelogo.jpg
 title: shadou.me
-
 permalink: projects/shadoume
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
@@ -16,7 +15,7 @@ summary: Designed a job shadowing platform connecting students with industry pro
 
 <div class="ui small rounded images">
    
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/Screen Shot 2019-11-18 at 3.27.40 PM.png">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
