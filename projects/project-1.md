@@ -1,20 +1,20 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/Yellow and Black Square Personal Logo.jpg
+title: shadou.me
+permalink: projects/shadoume
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-07
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - UX/UI
+  - Adobe XD
+  
+summary: Designed a job shadowing platform connecting students with industry professionals.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/Screen Shot 2019-11-18 at 3.27.40 PM.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
