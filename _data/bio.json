@@ -35,14 +35,11 @@
   "interests": [
     {
       "name": "data analytics",
-      "keywords": [
-        "SQL",
-        "Python"
-      ]
+      "keywords": []
     },
     {
       "name": "automation",
-      "keywords": [""
+      "keywords": [
       ]
     },
     {
@@ -100,25 +97,38 @@
     {
       "company": "KI Construction Consultant",
       "position": "Business Intelligence Manager",
-      "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Manager of business intelligence and business automation for KI Construction Consultant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Created and presented forecasting and budgeting models for potential projects to company executive team. Achieved 35% more accurate returns vs historical performance.",
+        "Introduction of real-time ROI graphs that helped the teams focus on high-profit business. This led to a 20% increase in total profits.",
+        "Implemented a new Inventory Model and BOM automated tool, identified supply chain excess.,
+        "Attending industry events and other meetings to stay abreast of market conditions and the competition, while managing relationships with existing vendors and clients."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "BJAtrading",
+      "position": "Co-founder",
+      "startDate": "2018-04-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Co-founder of an online marketplace with emphasis on logistical triangulation to gain competitive advantage over our competitors",
+        "Built predictive models based on preference and order history to maximize sales efficiency and inventory surplus management.",
+        "Owning the overall management of all strategic and operational activities, including providing market feedback regarding competitive offerings and needs.,
+        "Planning, analyzing and coordinating the implementation of new ventures and the penetration of new markets."
+    {
+      "company": "BJAtrading",
+      "position": "Co-founder",
+      "startDate": "2018-04-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Co-founder of an online marketplace with emphasis on logistical triangulation to gain competitive advantage over our competitors",
+        "Built predictive models based on preference and order history to maximize sales efficiency and inventory surplus management.",
+        "Owning the overall management of all strategic and operational activities, including providing market feedback regarding competitive offerings and needs.,
+        "Planning, analyzing and coordinating the implementation of new ventures and the penetration of new markets."
       ]
     }
   ],
