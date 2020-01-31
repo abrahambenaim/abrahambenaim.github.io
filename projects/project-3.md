@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cotton-square.png
 title: 2018 Disasters Analysis 
-permalink: projects/cotton
+permalink: projects/disasters
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-12
 labels:
