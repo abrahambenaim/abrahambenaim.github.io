@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: 2018 Disasters Analysis 
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-01-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Python
+  - HTML
+  - SQL
+summary: A brief analysis on 2020 US Natural Disasters.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
