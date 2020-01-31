@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wavvy.png
 title: 2018 U.S Natural Disasters Analysis 
-permalink: http://benaim.co/Web-Design-Challenge/index.html
+permalink: Web-Design-Challenge/index.html
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-10
 labels:
