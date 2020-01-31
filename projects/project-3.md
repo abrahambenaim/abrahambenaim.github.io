@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: {{ site.baseurl }}/images/wavvy.png
 title: 2018 Disasters Analysis 
 permalink: projects/disasters
 # All dates must be YYYY-MM-DD format!
