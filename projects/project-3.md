@@ -13,7 +13,7 @@ labels:
 summary: A brief analysis on 2020 US Natural Disasters.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/wavvy.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
@@ -58,5 +58,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="http://benaim.co/Web-Design-Challenge/index.html"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
