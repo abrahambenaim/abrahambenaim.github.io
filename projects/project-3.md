@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wavvy.png
 title: 2018 U.S Natural Disasters Analysis 
-permalink: projects/shadoume
+permalink: projects/disasters
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-10
 labels:
