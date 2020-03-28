@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Abraham Benaim",
-    "label": "Technology - Management Consulting @PwC",
+    "label": "Manager of Data & Analytics @ MSHS Group",
     "picture": "https://benaim.co/images/pp.jpeg",
     "email": "abraham@benaim.co",
     "phone": "786-681-4464",
     "website": "https://benaim.co",
-    "summary": "Technology consultant with an MBA and over 3 years of experience translating data into actionable insights.",
+    "summary": "Data Analytics Manager with an MBA and, over 3 years of experience translating data into actionable insights.",
     "location": {
       "address": "",
       "postalCode": "33160",
@@ -109,8 +109,8 @@
   ],
   "work": [
     {
-      "company": "PwC Advisory",
-      "position": "Associate",
+      "company": "MSHS Group",
+      "position": "Manager of Data & Analytics",
       "startDate": "2020-02-01",
       "endDate": "Present",
     },
